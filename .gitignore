@@ -1,0 +1,9 @@
+# R Environment
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Course resources
+resources
